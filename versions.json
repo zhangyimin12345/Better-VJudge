@@ -1,0 +1,10 @@
+{
+  "Better VJudge": {
+    "dev": "1.7",
+    "release": "1.7"
+  },
+  "Better VJudge Test": {
+    "dev": "1.85",
+    "release": "1.7"
+  }
+}
