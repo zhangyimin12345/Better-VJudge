@@ -2,5 +2,9 @@
   "Better VJudge": {
     "dev": "1.8",
     "release": "1.8"
+  },
+  "Better VJudge Developer": {
+    "dev": "1.85",
+    "release": "NaN"
   }
 }
