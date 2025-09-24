@@ -1,5 +1,7 @@
 # Better-VJudge
 
+文档：<https://better-vjudge.github.io/>。
+
 VJudge 美化 &amp; 功能增强。
 
 ## 效果图
